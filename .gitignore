@@ -1,0 +1,22 @@
+# Entorno Virtual
+# Ignora la carpeta del entorno virtual para no subir todas las librerías.
+venv/
+.venv/
+
+
+
+# Caché y archivos compilados de Python
+# Estos archivos se generan automáticamente y no son necesarios en el repositorio.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de configuración de editores de código
+.vscode/
+.idea/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
