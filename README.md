@@ -17,8 +17,7 @@ Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
 ## Estructura del Proyecto 📂
 La estructura de carpetas y archivos es simple y organizada para facilitar la navegación:
 
-<!-- codigo -->
-"""
+```
 /chatbot_flask
 ├── /static
 │   ├── style.css
@@ -27,8 +26,7 @@ La estructura de carpetas y archivos es simple y organizada para facilitar la na
 │   └── index.html
 ├── .env
 └── app.py
-"""
-
+```
 
 
 ## Configuración y Ejecución del Proyecto 🚀
